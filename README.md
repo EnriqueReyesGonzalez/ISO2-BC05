@@ -5,10 +5,15 @@ Laboratorio ISO2 2022-2023
 Grupo creado por:
 
 Tomás Abarca Cerro
+
 Isaac González del Pozo
+
 Natalia Jiménez Zapata
+
 Darío López García
+
 Andrés López Salgado
+
 Enrique Reyes González
 
 
