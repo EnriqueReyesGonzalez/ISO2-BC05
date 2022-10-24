@@ -2,19 +2,21 @@
 
 Laboratorio ISO2 2022-2023
 
+
 Grupo creado por:
 
-Tomás Abarca Cerro
+• Tomás Abarca Cerro
 
-Isaac González del Pozo
+• Isaac González del Pozo
 
-Natalia Jiménez Zapata
+• Natalia Jiménez Zapata
 
-Darío López García
+• Darío López García
 
-Andrés López Salgado
+• Andrés López Salgado
 
-Enrique Reyes González
+• Enrique Reyes González
+
 
 
 Gestión de Soporte al Peregrino en el Camino de Santiago. Asignatura de Ingeniería del Software II.
