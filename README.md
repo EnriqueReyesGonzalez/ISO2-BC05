@@ -11,8 +11,6 @@ Grupo creado por:
 
 • Natalia Jiménez Zapata.
 
-• Darío López García.
-
 • Andrés López Salgado.
 
 • Enrique Reyes González.
