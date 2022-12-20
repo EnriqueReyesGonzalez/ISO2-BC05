@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package DClases_Iteracion1.Cliente.Presentación;
+=======
+package DClases_Iteracion1.ClientePeregrino.Presentación;
+>>>>>>> origin/Iteracion4
 
 public class IU_Rutas {
 
@@ -12,4 +16,12 @@ public class IU_Rutas {
 		throw new UnsupportedOperationException();
 	}
 
+<<<<<<< HEAD
+=======
+	public void mostrar_info_negocio() {
+		// TODO - implement IU_Rutas.mostrar_info_negocio
+		throw new UnsupportedOperationException();
+	}
+
+>>>>>>> origin/Iteracion4
 }
