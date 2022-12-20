@@ -1,6 +1,6 @@
 package DClases_General_It1.cliente_Peregrino.Dominio;
 
-import DClases_Iteracion1.Servidor.Dominio.*;
+import DClases_General_It1.Servidor.Dominio.*;
 
 public class Peregrino {
 
@@ -9,7 +9,7 @@ public class Peregrino {
 	private Ruta ruta;
 	private Negocio[] lista_negocios = mostrar_negocios();
 
-	public Ruta planificacion_ruta() {
+	public void  planificacion_ruta() {
 		// TODO - implement Peregrino.planificacion_ruta
 		throw new UnsupportedOperationException();
 	}
