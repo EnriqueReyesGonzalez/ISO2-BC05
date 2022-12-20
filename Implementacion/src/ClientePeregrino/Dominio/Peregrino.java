@@ -9,7 +9,7 @@ public class Peregrino {
 	private Ruta ruta;
 	private Negocio[] lista_negocios = mostrar_negocios();
 
-	public void  planificacion_ruta() {
+	public void planificacion_ruta() {
 		// TODO - implement Peregrino.planificacion_ruta
 		throw new UnsupportedOperationException();
 	}
