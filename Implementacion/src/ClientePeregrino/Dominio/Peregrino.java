@@ -14,6 +14,7 @@ public class Peregrino {
 		throw new UnsupportedOperationException();
 	}
         
+	
 	/**
 	 * 
 	 * @param ruta
