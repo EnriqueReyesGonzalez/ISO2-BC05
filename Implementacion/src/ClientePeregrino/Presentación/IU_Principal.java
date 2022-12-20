@@ -1,4 +1,4 @@
-package DClases_Iteracion1.ClientePeregrino.Presentación;
+package DClases_General_It1.cliente_Peregrino.PresentaciÃ³n;
 
 public class IU_Principal {
 
