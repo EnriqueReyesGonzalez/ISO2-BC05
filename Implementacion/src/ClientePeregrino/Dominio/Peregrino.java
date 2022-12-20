@@ -1,4 +1,4 @@
-package DClases_Iteracion1.ClientePeregrino.Dominio;
+package DClases_General_It1.cliente_Peregrino.Dominio;
 
 import DClases_Iteracion1.Servidor.Dominio.*;
 
