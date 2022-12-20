@@ -13,7 +13,6 @@ public class Peregrino {
 		// TODO - implement Peregrino.planificacion_ruta
 		throw new UnsupportedOperationException();
 	}
-
 	/**
 	 * 
 	 * @param ruta
