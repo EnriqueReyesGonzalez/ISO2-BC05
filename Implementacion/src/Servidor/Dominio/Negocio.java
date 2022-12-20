@@ -1,9 +1,9 @@
-package DClases_Iteracion1.Servidor.Dominio;
+package DClases_General_It1.Servidor.Dominio;
 
 public class Negocio {
 
 	private string nombre;
-	private string dirección;
+	private string direcciÃ³n;
 	private string tipoNegocio;
 
 }
