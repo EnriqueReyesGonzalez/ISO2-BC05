@@ -1,4 +1,4 @@
-package DClases_General_It1.Servidor.Dominio;
+package DClases_Iteracion1.Servidor.Dominio;
 
 public class Negocio {
 
