@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-package DClases_General_It1.Servidor.Dominio;
-
-public class SirvienteServer {
-
-	public Ruta planificacion_ruta() {
-		// TODO - implement SirvienteServer.planificacion_ruta
-		throw new UnsupportedOperationException();
-	}
-
-	/**
-	 * 
-	 * @param ruta
-	 */
-	public Negocio mostrar_negocios(Ruta ruta) {
-		// TODO - implement SirvienteServer.mostrar_negocios
-		throw new UnsupportedOperationException();
-	}
-
-}
-=======
->>>>>>> 16c516c12df92ce401c59eb30d4b2ba3fba109c9
 package DClases_Iteracion1.Servidor.Dominio;
 
 public class SirvienteServer {
@@ -40,9 +16,13 @@ public class SirvienteServer {
 		throw new UnsupportedOperationException();
 	}
 
-<<<<<<< HEAD
+	/**
+	 * 
+	 * @param Negocio
+	 */
+	public void modificar_informacion(Negocio Negocio) {
+		// TODO - implement SirvienteServer.modificar_informacion
+		throw new UnsupportedOperationException();
+	}
+
 }
-=======
-}
->>>>>>> origin/Master
->>>>>>> 16c516c12df92ce401c59eb30d4b2ba3fba109c9

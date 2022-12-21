@@ -6,10 +6,6 @@ package Persistencia;
 public class Agente {
 
 	/**
-	 * Instancia del agente
-	 */
-	protected Agente mInstancia = null;
-	/**
 	 * Atributo que sirve para conectarse a la base de datos
 	 */
 	protected Connection mBD;
@@ -17,6 +13,10 @@ public class Agente {
 	 * Driver para conectar con bases de datos MySQL
 	 */
 	private String Driver = com.mysql.cj.jdbc.Driver;
+	/**
+	 * Instancia del agente
+	 */
+	protected Agente mInstancia = null;
 
 	/**
 	 * Constructor de la clase Agente que implementa el modelo Singleton y que garantiza que solo haya una instancia de la clase, ya que el constructor es privado
