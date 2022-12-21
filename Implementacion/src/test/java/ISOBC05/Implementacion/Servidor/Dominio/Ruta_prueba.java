@@ -6,5 +6,6 @@ public class Ruta {
 	private string puntoOrigen;
 	private string puntoDestino;
 	private Negocio listaNegocio;
+	private Negocio attribute;
 
 }
