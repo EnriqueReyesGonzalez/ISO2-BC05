@@ -12,6 +12,7 @@ Grupo creado por:
 • Natalia Jiménez Zapata.
 
 • Andrés López Salgado.
+  https://www.linkedin.com/in/andres-lopez-salgado-981936117/
 
 • Enrique Reyes González.
 
